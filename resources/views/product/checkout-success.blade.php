@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Payment successfull..!</h1>
+<h1> payment successfull..!</h1>
 </body>
 </html>
 
